@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Carlos Lima 🙋🏾‍♂️
 
-[![Blog](https://img.shields.io/website?label=Devcarloslima.com&style=for-the-badge&url=https://devcarloslima.com/)](https://www.devcarloslima.com)
+[![Blog](https://img.shields.io/website?label=Devcarloslima.com&style=for-the-badge&url=https://devcarloslima.netlify.app/)](https://devcarloslima.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosrlimadev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lima-ba097927a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarloslima/)
 
 ![Carlos Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarlosrlima&show_icons=true&theme=highcontrast)
 
