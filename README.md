@@ -1,6 +1,6 @@
 ### HEllo! My name is Carlos Lima 🙋🏾‍♂️
 
-[![Blog](https://img.shields.io/website?label=Devcarloslima.com&style=for-the-badge&url=https://devcarloslima.netlify.app/)](https://devcarloslima.netlify.app/)
+[![Blog](https://img.shields.io/website?label=Devcarloslima.com&style=for-the-badge&url=https://devcarloslima.vercel.app/)](https://devcarloslima.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosrlimadev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarloslima/)
 
