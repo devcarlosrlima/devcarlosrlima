@@ -1,4 +1,4 @@
-### HEllo! My name is Carlos Lima 🙋🏾‍♂️
+### Hello! My name is Carlos Lima 🙋🏾‍♂️
 
 [![Blog](https://img.shields.io/website?label=Devcarloslima.com&style=for-the-badge&url=https://devcarloslima.vercel.app/)](https://devcarloslima.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosrlimadev/)
